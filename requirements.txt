@@ -1,0 +1,4 @@
+minerl>=0.4.4
+stable-baselines3>=1.6.2
+torch>=1.13
+minecraft-launcher-lib>=0.4
